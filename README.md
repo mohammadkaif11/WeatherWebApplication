@@ -1,6 +1,7 @@
-# weather Application in React
+# weather Web Application in React without(UI)
+# features
+    searchs weather of city(By using external api)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 In the project directory, you can run:
